@@ -1,7 +1,7 @@
 # RinggzClient2017
 A Multi-Protocol RinggZ Client for the 2017 edition of Software Systems.
 
-Currently at version 1
+Currently at version 2
 
 For downloads, go to the [releases](https://github.com/Kurocon/RinggzClient2017/releases) page.
 
@@ -9,6 +9,7 @@ For downloads, go to the [releases](https://github.com/Kurocon/RinggzClient2017/
 - Group 1
 - Group 2
 - Group 5
+- Group 7
 - Group 9
 - Group 10
 - Group 11
